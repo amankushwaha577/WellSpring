@@ -1,5 +1,5 @@
 # ``` WELLSPRING ```
-WellSpring is your essential text chat app, offering a streamlined platform for clear and efficient communication. With a user-friendly interface and lightning-fast message delivery, it's the perfect tool for staying connected through the power of words. Say goodbye to distractions and embrace the simplicity of pure text conversations with TextXpress.
+WellSpring is your essential text chat app, offering a streamlined platform for clear and efficient communication. With a user-friendly interface and lightning-fast message delivery, it's the perfect tool for staying connected through the power of words. Say goodbye to distractions and embrace the simplicity of pure text conversations with WELLSPRING.
 
 ![Webp net-gifmaker](https://user-images.githubusercontent.com/53748350/265252183-65912f3f-7c96-4e9f-879c-aef475cfbc43.gif)
 
