@@ -56,76 +56,9 @@ TECHNICAL SIDES OF FRIEND'S SPY
 ```
 
 
-<br>
-
-# Team Friend's Spy
-| Name | Github Username | 
-| ------ | ------ |
-| Aman Kushwaha | [https://github.com/amankushwaha577/]  |
-| Aman Saxena | [https://github.com/amanS2206/] |
-| Akarshit Srivastava | [https://github.com/akarshit2001/] |
-| Akshat Sinha | [https://github.com/Akshat555624] |
-| Harshit Saxena | [https://github.com/saxenaharshit/] |
-
-<br>
 
 License
 ----
-@Copyright Friend's Spy  2021
+@Copyright WellSpring 2022
 
 
-
-# Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
- 
-
-![login page](./images/snappy_login.png)
-
-![home page](./images/snappy.png)
-
-## Installation Guide
-
-### Requirements
-- [Nodejs](https://nodejs.org/en/download)
-- [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
-
-Both should be installed and make sure mongodb is running.
-
-```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
-```
-Now rename env files from .env.example to .env
-```shell
-cd public
-mv .env.example .env
-cd ..
-cd server
-mv .env.example .env
-cd ..
-```
-
-Now install the dependencies
-```shell
-cd server
-yarn
-cd ..
-cd public
-yarn
-```
-We are almost done, Now just start the development server.
-
-For Frontend.
-```shell
-cd public
-yarn start
-```
-For Backend.
-
-Open another terminal in folder, Also make sure mongodb is running in background.
-```shell
-cd server
-yarn start
-```
-
-Done! Now open localhost:3000 in your browser.
