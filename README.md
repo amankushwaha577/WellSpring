@@ -19,10 +19,11 @@ WellSpring is your essential text chat app, offering a streamlined platform for 
 
 - ![#BE0DF2](https://via.placeholder.com/15/1589F0/000000?text=+) `REACT.js`
 - ![#1512F8](https://via.placeholder.com/15/1589F0/000000?text=+) `NODE.js`
-- ![#c2E010](https://via.placeholder.com/15/c5f015/000000?text=+) `NEXT.js`
+- ![#c2E010](https://via.placeholder.com/15/c5f015/000000?text=+) `EXPRESS.js`
+- ![#5DF20D](https://via.placeholder.com/15/f03c15/000000?text=+) `Socket.io`
 - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Java Script`
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `HTML5, CSS3 and Bootstrap4`
-- ![#5DF20D](https://via.placeholder.com/15/f03c15/000000?text=+) `Socket.io`
+
 
 
 ### DataBase 
@@ -37,22 +38,20 @@ Mongo DB
 
 TECHNICAL SIDES OF FRIEND'S SPY
 ```sh
-1. A FullStack Social Network Application
-2. Rock Solid Authentication with Password Forgot/Password Reset using JWT
-3. Application LogIn using JWT
-4. POST CRUD Operations [ Users ] : Post Upload,Update,Delete | Comment on Post, Comment on Post Delete |
-                                    Post like and unlike | User follow and unfollow |
-                                    User Posts Relationships
-   POST CRUD Operations [ Admin ] : Post Upload,Update,Delete | Comment on Post, Comment on Post Delete |
-                                    Post like and unlike | Admin follow and unfollow |
-                                    Admin Posts Relationships
-                                                                  +
-                                    Update or Delete anyone-s Post | Update or Delete any User
-5. Custom reCAPTCHA
-6. Real Time Communication using Socket.io
-7. Secure DataBase Using MongoDB Database.
-8. Node.js API development for Backend Tool.
-9. SEO (Server Side Rendering) with NextJs
+1. Technology Stack: Built on a robust stack, including React for the front-end, Node.js for the server,
+                     Socket.io for real-time functionality,
+                     MongoDB for secure data storage,
+                     and Express for reliable server-client communication.
+
+2. Efficient Message Delivery: Socket.io ensures that messages are delivered instantaneously,
+                               providing a dynamic and immersive chat experience.
+
+3. Data Security: MongoDB is employed to securely store messages,
+                  preserving valuable conversations and shared information.
+
+4. Express Integration: Express is integrated to facilitate a seamless connection between the front-end and back-end,
+                        ensuring a reliable and efficient user experience.
+
 
 ```
 
