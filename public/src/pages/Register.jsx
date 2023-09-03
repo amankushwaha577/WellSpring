@@ -90,7 +90,7 @@ export default function Register() {
         <form action="" onSubmit={(event) => handleSubmit(event)}>
           <div className="brand">
             <img src={Logo} alt="logo" />
-            <h1>snappy</h1>/
+            {/* <h1>snappy</h1> */}
           </div>
           <input
             type="text"
@@ -154,7 +154,7 @@ const FormContainer = styled.div`
     display: flex;
     flex-direction: column;
     gap: 2rem;
-    background-color: #00000076;
+    background-color: #000000;
     border-radius: 2rem;
     padding: 3rem 5rem;
   }
