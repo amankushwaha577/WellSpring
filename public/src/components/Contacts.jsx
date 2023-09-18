@@ -97,7 +97,7 @@ const Container = styled.div`
       }
     }
     .contact {
-      background-color: #ae00ff99;
+      background-color: #bc0707;
       min-height: 5rem;
       cursor: pointer;
       width: 90%;
@@ -119,7 +119,7 @@ const Container = styled.div`
       }
     }
     .selected {
-      background-color: #9a86f3;
+      background-color: #07bc0c;
     }
   }
 
