@@ -10,7 +10,7 @@ WellSpring is your essential text chat app, offering a streamlined platform for 
   - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `Privacy-focused text chat app that encrypts your messages end-to-end. Keep your conversations secure and have peace of mind knowing your texts are for your eyes only.`
 
   - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `WellSpring is the lightweight option for text chat enthusiasts. It's designed to be fast and efficient, ensuring you can engage in text conversations without slowing down your device.`
-
+ 
      
 
  <br>
