@@ -11,7 +11,7 @@ WellSpring is your essential text chat app, offering a streamlined platform for 
 
   - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `WellSpring is the lightweight option for text chat enthusiasts. It's designed to be fast and efficient, ensuring you can engage in text conversations without slowing down your device.`
  
-     
+       
 
  <br>
 
